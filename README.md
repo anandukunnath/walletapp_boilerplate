@@ -1,4 +1,4 @@
-# service_monitor
+# instructions
 
-sudo privilages required.
-run "sudo python3 app.py"
+
+run "python3 app.py"
